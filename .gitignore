@@ -1,5 +1,6 @@
 # custom files
-custom/
+#custom/
+/custom/.android/**
 
 # temp files directories
 cache/
